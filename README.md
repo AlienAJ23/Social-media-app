@@ -1,3 +1,15 @@
+This a basic social media app, the functionalities and project is yet to be completed.
+This is just a basic demonstration of login/signup to create or open an account.
+
+
+
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
